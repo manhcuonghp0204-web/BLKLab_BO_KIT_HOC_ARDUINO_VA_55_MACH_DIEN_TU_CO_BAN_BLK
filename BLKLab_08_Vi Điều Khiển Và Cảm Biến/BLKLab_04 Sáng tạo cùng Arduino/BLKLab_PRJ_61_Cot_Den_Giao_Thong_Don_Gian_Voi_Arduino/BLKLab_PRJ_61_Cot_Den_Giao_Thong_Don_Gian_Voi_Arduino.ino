@@ -5,7 +5,7 @@
 
 // --- KHAI BÁO CẤU HÌNH ---
 // Mảng chứa các chân điều khiển LED 7 thanh (a, b, c, d, e, f, g, dp)
-int ledPins[8] = {6, 7, 9, 8, 11, 13, 12, 10}; 
+int ledPins[8] = {6, 7, 9, 10, 11, 13, 12, 8}; 
 
 // Chân điều khiển đèn giao thông
 int greenLed  = 3;
